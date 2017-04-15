@@ -1,6 +1,15 @@
 <html>
-<head> 
-<link rel="stylesheet" type="text/css" href="mystyle.css">
+<head>
+<style>
+body {
+    background-color: linen;
+}
+
+h1 {
+    color: maroon;
+    margin-left: 40px;
+} 
+</style>
 </head>
 <body> 
 <div class="everything">
