@@ -1,15 +1,6 @@
 <html>
-<head>
-<style>
-body {
-    background-color: linen;
-}
-
-h1 {
-    color: maroon;
-    margin-left: 40px;
-} 
-</style>
+<head> 
+<link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
 <body> 
 <div class="everything">
@@ -19,11 +10,11 @@ h1 {
 <div class="second"> 
 <a class="btn" href="http://www.sarahkatz.design" role="button">Portfolio</a>
 <br>
-<br><h1>About Sarah</h1>
+<br><h1 style="color:blue;margin-left:30px;">About Sarah</h1>
 <br><p>I enjoy experimental art and design.
 <br>Coffee, the pen tool, and pantone swatches run my life. 
 <br>Some other random fact here.</p>
-<br><h1>Internship Details</h1>
+<br><h1 style="color:blue;margin-left:30px;">Internship details</h1>
 <br><p>Education Intern<br>
 <br><b>hours:</b>
 <br>Monday 4:00 (remote)
