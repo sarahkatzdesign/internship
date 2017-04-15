@@ -10,7 +10,7 @@
 <div class="second">
 <a href="about.html">About</a>
 <a href="internship.html">Internship Details</a> 
-<a href="www.sarahkatz.design">Work</a>
+<a href="http://www.sarahkatz.design">Work</a>
 <a href="other.html">Other</a> 
 </div>
 <p>
