@@ -11,11 +11,11 @@
 <a class="btn" href="http://www.sarahkatz.design" role="button">Portfolio</a>
 <br>
 <br><h1>About Sarah</h1>
-<br><p>I enjoyexperimental art and design.
-<br>
-<br></p>
+<br><p>I enjoy experimental art and design.
+<br>Coffee, the pen tool, and pantone swatches run my life. 
+<br>Some other random fact here.</p>
 <br><h1>Internship Details</h1>
-<br><br><p>Education Intern
+<br><p>Education Intern<br>
 <br><b>hours:</b>
 <br>Monday 4:00 (remote)
 <br>Tuesday 4:00-6:00
