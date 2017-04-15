@@ -9,7 +9,7 @@
 
 <div class="second">
 <a href="about.html">About</a>
-<a href="internship.html">Internship Details</a> 
+<a href="internship.html">Internship</a> 
 <a class="btn" href="http://www.sarahkatz.design" role="button">Portfolio</a>
 <a href="other.html">Other</a> 
 </div>
